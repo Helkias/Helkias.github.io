@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "https://helkias.github.io"
-url: ""
+baseurl: ""
+url: "https://helkias.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
