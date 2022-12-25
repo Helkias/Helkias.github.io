@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "135385afe0f38f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc92d4ed43d8cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea46274e29780d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_portfolio/cake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "339b5cd4253747e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeaf69cdca6d7229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df5c9349ad00f27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "309aff5007a7a195",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02b48c79f9225f25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdb3651c1c5f26a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df187634b0637a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd621ecf8edfe0af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_portfolio/cake.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a117e2e939cd7d36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_portfolio/cake.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b343aacd8e090f5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c6df23c566c1dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_portfolio/cake.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea46274e29780d12",
+  "lastOpenFiles": []
+}
