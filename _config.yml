@@ -13,7 +13,7 @@ header_text                      : <code>DFIR - Malware Analysis - Interesting a
 header_feature_image             : assets/img/header/ninja.png
 header_feature_image_responsive  : true
 footer_text                      : >
-      Powered by <a href="https://jekyllrb.com/">Jekyll</a>
+      Sitio creado con <a href="https://jekyllrb.com/">Jekyll</a> y tema <a href="https://github.com/Sylhare/Type-on-Strap">Type-on-Strap</a>
 
 # Blog
 excerpt                          : true                                                              # Or "truncate" (first 250 characters), "false" to disable
