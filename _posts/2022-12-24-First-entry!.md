@@ -7,8 +7,6 @@ thumbnail: "assets/img/thumbnails/posts/first_thumbnail.png"
 tags: [Personal]
 ---
 
-## El impulso creativo
-
 **R**ara es la vez en la que me encuentro inspirado o motivado para escribir algo. Expresar mis emociones, ira, alegría, dolor, sufrimiento, éxtasis, tristeza... existen tantas modalidades del ser que es difícil no tener impulso creativo de expresar lo que uno siente. Desde siempre, he sentido como si una gran muralla se alzase ante mí, imponente, reduciéndome a una insignificante y minúscula mota de polvo, carente de poder e insegura de sí misma...
 
 Rara es la vez en la que me encuentro inspirado o motivado para escribir algo. Expresar mis emociones, ira, alegría, dolor, sufrimiento, éxtasis, tristeza... existen tantas modalidades del ser que es difícil no tener impulso creativo de expresar lo que uno siente. Desde siempre, he sentido como si una gran muralla se alzase ante mí, imponente, reduciéndome a una insignificante y minúscula mota de polvo, carente de poder e insegura de sí misma. 
