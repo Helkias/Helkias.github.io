@@ -9,7 +9,7 @@ avatar                           : assets/img/viking.png                        
 favicon                          : assets/favicon-32x32.png                                         # Icon displayed in the tab
 
 # Header and footer text
-header_text                      : <code>Blog personal - DFIR, análisis de malware y tutoriales</code>      # Change Blog header text
+header_text                      : <code>Blog personal - DFIR, tutoriales y más!</code>      # Change Blog header text
 header_feature_image             : assets/img/header/ninja.png
 header_feature_image_responsive  : true
 footer_text                      : >
