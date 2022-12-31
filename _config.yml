@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://helkias.github.io"
+url: "/helkias.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title                            : H3lkias | Cybersecurity                                          # site's title
